@@ -1,4 +1,4 @@
-# oop_2016
+# OOP 2016
 
 + C++ programming
 + Class concept
